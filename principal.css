@@ -1,6 +1,13 @@
 h1 {
-font-famil: sans-serif;
+    font-family: sans-serif;
 }
-li{
-font-family: monosspace;
+
+li {
+    font-family: monosspace;
+}
+
+.imagens {
+    border: 5px solid black;
+    border-radius: 5px;
+    width: 400px;
 }
